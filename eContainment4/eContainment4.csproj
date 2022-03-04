@@ -14,8 +14,12 @@
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2337" />
     <PackageReference Include="Xamarin.Essentials" Version="1.7.1" />
     <PackageReference Include="AppDynamics.Agent" Version="2022.2.0" />
+    <PackageReference Include="Microsoft.Identity.Client" Version="4.27.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="AppDynamics.Agent" />
+    <None Remove="Microsoft.Identity.Client" />
+    <None Remove="Newtonsoft.Json" />
   </ItemGroup>
 </Project>
