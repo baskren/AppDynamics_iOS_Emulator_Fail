@@ -1,0 +1,146 @@
+=== Visual Studio Enterprise 2019 for Mac ===
+
+Version 8.10.19 (build 2)
+Installation UUID: 422192eb-99d1-4ce3-ab49-bf314549f89b
+	GTK+ 2.24.23 (Raleigh theme)
+	Xamarin.Mac 6.18.0.23 (d16-6 / 088c73638)
+
+	Package version: 612000162
+
+=== Mono Framework MDK ===
+
+Runtime:
+	Mono 6.12.0.162 (2020-02/2ca650f1f62) (64-bit)
+	Package version: 612000162
+
+=== Roslyn (Language Service) ===
+
+3.10.0-4.21269.26+029847714208ebe49668667c60ea5b0a294e0fcb
+
+=== NuGet ===
+
+Version: 5.9.0.7134
+
+=== .NET SDK (x64) ===
+
+SDK: /usr/local/share/dotnet/sdk/6.0.102/Sdks
+SDK Versions:
+	6.0.102
+	6.0.101
+	5.0.405
+	5.0.404
+	3.1.416
+MSBuild SDKs: /Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/bin/MSBuild/Current/bin/Sdks
+
+=== .NET Core Runtime ===
+
+Runtime: /usr/local/share/dotnet/dotnet
+Runtime Versions:
+	6.0.2
+	6.0.1
+	5.0.14
+	5.0.13
+	3.1.22
+
+=== .NET Core 3.1 SDK ===
+
+SDK: 3.1.416
+
+=== .NET 5.0 SDK ===
+
+SDK: 5.0.405
+
+=== Xamarin.Profiler ===
+
+Version: 1.6.15.68
+Location: /Applications/Xamarin Profiler.app/Contents/MacOS/Xamarin Profiler
+
+=== Updater ===
+
+Version: 11
+
+=== Apple Developer Tools ===
+
+Xcode 13.2.1 (19586)
+Build 13C100
+
+=== Xamarin.Mac ===
+
+Version: 8.6.0.3 (Visual Studio Enterprise)
+Hash: caa899d24
+Branch: d17-1
+Build date: 2022-01-16 21:16:56-0500
+
+=== Xamarin.iOS ===
+
+Version: 15.6.0.3 (Visual Studio Enterprise)
+Hash: caa899d24
+Branch: d17-1
+Build date: 2022-01-16 21:16:56-0500
+
+=== Xamarin Designer ===
+
+Version: 16.11.0.60
+Hash: 56f9b80b0
+Branch: remotes/origin/d16-11
+Build date: 2021-12-15 02:44:16 UTC
+
+=== Xamarin.Android ===
+
+Version: 12.0.0.3 (Visual Studio Enterprise)
+Commit: xamarin-android/d16-11/f0e3c2d
+Android SDK: /Users/ben/Library/Android/sdk
+	Supported Android versions:
+		5.0 (API level 21)
+		8.0 (API level 26)
+		8.1 (API level 27)
+
+SDK Tools Version: 26.1.1
+SDK Platform Tools Version: 31.0.3
+SDK Build Tools Version: 30.0.3
+
+Build Information: 
+Mono: c633fe9
+Java.Interop: xamarin/java.interop/d16-11@476bb5b
+ProGuard: Guardsquare/proguard/v7.0.1@912d149
+SQLite: xamarin/sqlite/3.35.4@85460d3
+Xamarin.Android Tools: xamarin/xamarin-android-tools/d16-11@87af37b
+
+=== Eclipse Temurin JDK ===
+
+Java SDK: Not Found
+
+=== Android SDK Manager ===
+
+Version: 16.10.0.13
+Hash: 1b81df5
+Branch: remotes/origin/d16-10
+Build date: 2021-11-12 01:17:32 UTC
+
+=== Android Device Manager ===
+
+Version: 16.10.0.15
+Hash: 89dcc0b
+Branch: remotes/origin/d16-10
+Build date: 2021-11-12 01:17:52 UTC
+
+=== Build Information ===
+
+Release ID: 810190002
+Git revision: 632b6ca654e2733a685bfc9c6a0686e0a317092b
+Build date: 2022-02-09 13:38:14-05
+Build branch: release-8.10
+
+=== Operating System ===
+
+Mac OS X 12.2.1
+Darwin 21.3.0 Darwin Kernel Version 21.3.0
+    Wed Jan  5 21:37:58 PST 2022
+    root:xnu-8019.80.24~20/RELEASE_X86_64 x86_64
+
+=== Enabled user installed extensions ===
+
+DeepClean 1.2.5
+Brute Clean 1.1
+WakaTime 4.0.2
+

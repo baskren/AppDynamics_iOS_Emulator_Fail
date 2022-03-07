@@ -1,0 +1,52 @@
+User assembly '/Users/ben/Development/Xamarin.Forms/AppDynamicsFail/eContainment4.iOS/bin/iPhoneSimulator/Release/eContainment4.iOS.exe' is missing. Debugger will now debug all code, not just user code.
+> am start -n "com.tema.econtainment4/crc6494bb13512968adda.MainActivity"
+> Starting: Intent { cmp=com.tema.econtainment4/crc6494bb13512968adda.MainActivity }
+
+[a.econtainment] Unexpected CPU variant for X86 using defaults: x86
+[a.econtainment] Not starting debugger since process cannot load the jdwp agent.
+[a.econtainment] Background concurrent copying GC freed 5696(2MB) AllocSpace objects, 0(0B) LOS objects, 60% free, 999KB/2MB, paused 7.114ms total 16.620ms
+[LoadedApk] Unable to instantiate appComponentFactory
+[LoadedApk] java.lang.ClassNotFoundException: Didn't find class "androidx.core.app.CoreComponentFactory" on path: DexPathList[[zip file "/data/app/com.tema.econtainment4-sK-q7cAi_e3gT7wfPnQ-WA==/base.apk"],nativeLibraryDirectories=[/data/app/com.tema.econtainment4-sK-q7cAi_e3gT7wfPnQ-WA==/lib/x86, /data/app/com.tema.econtainment4-sK-q7cAi_e3gT7wfPnQ-WA==/base.apk!/lib/x86, /system/lib]]
+[LoadedApk] 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:134)
+[LoadedApk] 	at java.lang.ClassLoader.loadClass(ClassLoader.java:379)
+[LoadedApk] 	at java.lang.ClassLoader.loadClass(ClassLoader.java:312)
+[LoadedApk] 	at android.app.LoadedApk.createAppFactory(LoadedApk.java:226)
+[LoadedApk] 	at android.app.LoadedApk.createOrUpdateClassLoaderLocked(LoadedApk.java:731)
+[LoadedApk] 	at android.app.LoadedApk.getClassLoader(LoadedApk.java:810)
+[LoadedApk] 	at android.app.LoadedApk.getResources(LoadedApk.java:1032)
+[LoadedApk] 	at android.app.ContextImpl.createAppContext(ContextImpl.java:2345)
+[LoadedApk] 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:5749)
+[LoadedApk] 	at android.app.ActivityThread.access$1100(ActivityThread.java:199)
+[LoadedApk] 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1650)
+[LoadedApk] 	at android.os.Handler.dispatchMessage(Handler.java:106)
+[LoadedApk] 	at android.os.Looper.loop(Looper.java:193)
+[LoadedApk] 	at android.app.ActivityThread.main(ActivityThread.java:6669)
+[LoadedApk] 	at java.lang.reflect.Method.invoke(Native Method)
+[LoadedApk] 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:493)
+[LoadedApk] 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:858)
+[a.econtainment] Attempt to remove non-JNI local reference, dumping thread
+[monodroid-gc] GREF GC Threshold: 46080
+[a.econtainment] Attempt to remove non-JNI local reference, dumping thread
+I/AppDynamics: Agent Version: 2022.2.0
+W/AppDynamics: No PDB GUID found
+[NetworkSecurityConfig] No Network Security Config specified, using platform default
+[System] Ignoring header bid because its value was null.
+[System] Ignoring header bid because its value was null.
+[OpenGLRenderer] Skia GL Pipeline
+[HostConnection] HostConnection::get() New Host Connection established 0xc74406e0, tid 28053
+[HostConnection] HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_YUV420_888_to_NV21 ANDROID_EMU_YUV_Cache ANDROID_EMU_async_unmap_buffer GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_gles_max_version_3_0 
+[ConfigStore] android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+[ConfigStore] android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasHDRDisplay retrieved: 0
+[OpenGLRenderer] Initialized EGL, version 1.4
+[OpenGLRenderer] Swap behavior 1
+[OpenGLRenderer] Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+[OpenGLRenderer] Swap behavior 0
+[eglCodecCommon] setVertexArrayObject: set vao to 0 (0) 0 0
+[EGL_emulation] eglCreateContext: 0xc7595780: maj 3 min 0 rcv 3
+[EGL_emulation] eglMakeCurrent: 0xc7595780: ver 3 0 (tinfo 0xc759acf0)
+[HostConnection] createUnique: call
+[HostConnection] HostConnection::get() New Host Connection established 0xc7440a00, tid 28053
+[HostConnection] HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_YUV420_888_to_NV21 ANDROID_EMU_YUV_Cache ANDROID_EMU_async_unmap_buffer GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_gles_max_version_3_0 
+[eglCodecCommon] GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+[EGL_emulation] eglMakeCurrent: 0xc7595780: ver 3 0 (tinfo 0xc759acf0)
+[eglCodecCommon] setVertexArrayObject: set vao to 0 (0) 3 2
